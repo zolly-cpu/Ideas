@@ -39,7 +39,7 @@ BIC: GKCCBEBB
 Wouter Vandorpe
 Weststraat 138A203
 Sleidinge 9940
-
+Belgium
 
 
 
