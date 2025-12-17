@@ -29,3 +29,18 @@ ZerocIce 3.7.10.1
 scons 4.2.0
 Qt 5.12.12
 Postgresql 14.x
+
+# Donation
+
+You can donate to the project on the following bank account:
+IBAN: BE 30 0631 9465 7211
+BIC: GKCCBEBB
+
+Wouter Vandorpe
+Weststraat 138A203
+Sleidinge 9940
+
+
+
+
+
