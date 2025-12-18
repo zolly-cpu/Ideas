@@ -1,4 +1,4 @@
-# 2UVFramework-unix
+# 2UVFramework
 Automation framework chemical and automation processes
 
 # MIT License
