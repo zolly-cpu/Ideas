@@ -31,5 +31,4 @@ Calculating numbers
 # Donnation
 
 You can donate on the account BE30 0631 9465 7211 BIC GCCBCBB
-
-2UV.project@gmail.com
+enmf.wvd@gmail.com
