@@ -1,4 +1,4 @@
-from bluepy.btle import Scanner, DefaultDelegate, BTLEException, Peripheral, UUID
+#from bluepy.btle import Scanner, DefaultDelegate, BTLEException, Peripheral, UUID
 import socket
 import xml.etree.ElementTree as ET
 import datetime
