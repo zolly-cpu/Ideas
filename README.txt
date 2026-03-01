@@ -1,7 +1,7 @@
 VirtualAirPlot
 -----------------
 
-Database is getting generated there i have the generate 1000.000.000 records for the distances.
+Database is getting generated there i have the generate 1000.000.000 records for the distances. (Dimensions {1000,1000,1000})
 Reached the 7.000.000 records for the moment ... .
 This will be uploaded.
 The arduino code will also be uploaded.
