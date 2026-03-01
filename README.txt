@@ -2,6 +2,7 @@ VirtualAirPlot
 -----------------
 
 Database is getting generated there i have the generate 1000.000.000 records for the distances.
+Reached the 7.000.000 records for the moment ... .
 This will be uploaded.
 The arduino code will also be uploaded.
 The basics to supply the coord of the match dimensions are now in the code.
